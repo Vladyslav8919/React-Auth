@@ -18,7 +18,7 @@ const ProfileForm = () => {
     // add validation
 
     fetch(
-      "https://identitytoolkit.googleapis.com/v1/accounts:update?key=AIzaSyCWqpMlyxvK-RZNN1j9o7UNXKIZBZafI_c",
+      "",
       {
         method: "POST",
         body: JSON.stringify({
